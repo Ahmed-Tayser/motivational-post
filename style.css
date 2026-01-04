@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  text-align: center;
+}
+h1 {
+    color: rgb(88, 136, 142);
+    font-size: 50px;
+}
+p {
+    color: rgb(88, 136, 142);
+    font-size: 30px;
+}
+img {
+    width: 100%;
+    border: 5px solid rgb(88, 136, 142);
+}
+div {
+    width: 50%;
+    margin: 25%;
+    margin-top: 100px;
+}
